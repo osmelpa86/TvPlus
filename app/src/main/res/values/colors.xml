@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transmission">#1faa00</color>
+    <color name="recess">#ffd600</color>
+    <color name="finalized">#FF004ba0</color>
+    <color name="itemBrackground">#e0e0e0</color>
+    <color name="itemIconColor">#9e9e9e</color>
+</resources>

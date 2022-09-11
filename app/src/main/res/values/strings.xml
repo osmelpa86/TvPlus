@@ -1,0 +1,60 @@
+<resources>
+    <string name="home">Inicio</string>
+    <string name="app_name">TvPlus</string>
+    <string name="country">País</string>
+    <string name="genre">Género</string>
+    <string name="tv_show">Serie</string>
+    <string name="channel">Cadena</string>
+    <string name="season">Temporada</string>
+    <string name="settings">Configuración</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="no_title">Sin título</string>
+    <string name="name">Nombre</string>
+    <string name="data_empty_message">No hay datos para mostrar.</string>
+    <string name="delete_message">Esta seguro(a) que desea eliminar</string>
+    <string name="success_insert">Adicionado satisfactoriamente</string>
+    <string name="success_update">Actualizado satisfactoriamente</string>
+    <string name="success_delete">Eliminado satisfactoriamente</string>
+    <string name="search">Búscar</string>
+    <string name="select">Seleccionar</string>
+    <string name="not_assign">Sin asignar</string>
+
+    <!--Validaciones-->
+    <string name="required">Campo requerido</string>
+    <string name="exist_name">Ya existe un elemento con ese nombre</string>
+
+    <!--Género-->
+    <string name="manage_genre">Gestionar género</string>
+    <string name="the_genre">el género</string>
+
+    <!--Cadena-->
+    <string name="manage_channel">Gestionar cadena</string>
+    <string name="the_channel">la cadena</string>
+
+    <!--Country-->
+    <string name="manage_country">Gestionar país</string>
+    <string name="the_country">el país</string>
+
+    <!--Serie (Tv Show)-->
+    <string name="manage_tv_show">Gestionar serie</string>
+    <string name="the_tv_show">la serie</string>
+    <string name="title">Titulo</string>
+    <string name="year">Año</string>
+    <string name="duration">Duración</string>
+    <string name="duration_placeholder">## : ##</string>
+    <string name="type">Tipo</string>
+    <string name="status">Estado</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="genres">Géneros</string>
+    <string name="fronts">Portadas</string>
+    <string name="cover_list_empty">No se han seleccionado portadas</string>
+    <string name="tv_show_delete_message">Esta seguro(a) que desea eliminar la serie</string>
+
+    <!--Season-->
+    <string name="manage_season">Gestionar temporada</string>
+    <string name="the_season">la temporada</string>
+    <string name="number">Número</string>
+    <string name="total_chapter">Total capítulos</string>
+
+</resources>
